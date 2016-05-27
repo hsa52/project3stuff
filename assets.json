@@ -1,39 +1,57 @@
 {"frames": {
 
-"mushroom1.png":
+"runner1.png":
 {
-	"frame": {"x":0,"y":0,"w":32,"h":32},
+	"frame": {"x":1,"y":1,"w":39,"h":29},
 	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
-	"sourceSize": {"w":32,"h":32},
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":24,"w":39,"h":29},
+	"sourceSize": {"w":64,"h":64},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"mushroom2.png":
+"runner2.png":
 {
-	"frame": {"x":32,"y":0,"w":32,"h":32},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
-	"sourceSize": {"w":32,"h":32},
+	"frame": {"x":35,"y":36,"w":27,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":24,"w":27,"h":31},
+	"sourceSize": {"w":64,"h":64},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"mushroom3.png":
+"runner3.png":
 {
-	"frame": {"x":64,"y":0,"w":32,"h":32},
-	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
-	"sourceSize": {"w":32,"h":32},
+	"frame": {"x":68,"y":36,"w":22,"h":28},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":22,"h":28},
+	"sourceSize": {"w":64,"h":64},
 	"pivot": {"x":0.5,"y":0.5}
 },
-"mushroom4.png":
+"runner4.png":
 {
-	"frame": {"x":96,"y":0,"w":32,"h":32},
+	"frame": {"x":42,"y":1,"w":33,"h":31},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":20,"y":24,"w":33,"h":31},
+	"sourceSize": {"w":64,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"runner5.png":
+{
+	"frame": {"x":1,"y":32,"w":25,"h":32},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":25,"h":32},
+	"sourceSize": {"w":64,"h":64},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"runner6.png":
+{
+	"frame": {"x":75,"y":1,"w":22,"h":28},
 	"rotated": false,
-	"trimmed": false,
-	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
-	"sourceSize": {"w":32,"h":32},
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":24,"w":22,"h":28},
+	"sourceSize": {"w":64,"h":64},
 	"pivot": {"x":0.5,"y":0.5}
 }},
 "meta": {
@@ -41,8 +59,8 @@
 	"version": "1.0",
 	"image": "assets.png",
 	"format": "RGBA8888",
-	"size": {"w":128,"h":32},
+	"size": {"w":98,"h":64},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:698408136f0dc9a9ee5c4b1df69ba6ca:35b9a5d23a25720d423202d88a7999a7:a759b6bbc8381ac9c472b28f589ad0d6$"
+	"smartupdate": "$TexturePacker:SmartUpdate:85e476afbd574f8abec0bf6bdc95c081:d0bf161d3ab8daef247b553741964f49:a759b6bbc8381ac9c472b28f589ad0d6$"
 }
 }
