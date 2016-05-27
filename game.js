@@ -24,7 +24,7 @@ gameTitle.position.x=360;
 gameTitle.position.y=100;
 titlescreen.addChild(gameTitle);
 titlescreen.visible=1;
-var title = new PIXI.Text("Click Here If You Wish To Play");
+var title = new PIXI.Text("Click Here If You Wish To Play\n If You Do Not Wanna Play Then Go Away");
 title.position.x=360;
 title.position.y=200;
 title.anchor.x=.5;
@@ -320,14 +320,6 @@ document.addEventListener("keydown",function (e) {
 
     }
 });
-
-
-
-
-
-
-
-
 
 
 
